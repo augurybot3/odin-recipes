@@ -1,0 +1,51 @@
+*{
+    background-color: antiquewhite;
+}
+h1,h3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 48px;
+}
+h1{
+    margin:100px 100px 50px 50px;
+    text-align: center;
+    text-decoration-style: dotted;
+    text-decoration-color: aquamarine;
+    text-decoration-thickness: 10px;
+    text-decoration: double;
+    text-shadow: 10px 10px aquamarine;
+
+
+}
+ul,ol,li,h4{
+    font-family: 'Courier New', Courier, monospace;
+}
+h3{
+    font-weight: 800;
+    font-size:30px;
+}
+.div{
+    display: flex;
+    margin-left:100px;
+    margin-right:100px;
+    align-content: space-between;
+    max-width:1200px;
+
+}
+.inline{
+    display: inline-block;
+    margin:auto;
+
+
+}
+#directions{
+    display:flex;
+    justify-self:center;
+ justify-content: left;
+ margin-left:100px;
+
+}
+ol{
+    margin-left:100px;
+    max-width: 1000px;
+    
+}
